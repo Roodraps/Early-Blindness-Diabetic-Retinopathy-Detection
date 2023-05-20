@@ -1,7 +1,16 @@
 # Early-Blindness-Diabetic-Retinopathy-Detection
 This GitHub repository contains the code and resources for an early detection system for Blindness and Diabetic Retinopathy. The goal of this project is to classify retinal images into three classes: "NO DR" (No Diabetic Retinopathy), "Moderate DR" (Moderate Diabetic Retinopathy), and "Severe DR" (Severe Diabetic Retinopathy).
 
-# live classification
+# Live classification
+1. Moderate DR case
+![Moderate DR classification](https://github.com/Roodraps/Early-Blindness-Diabetic-Retinopathy-Detection/assets/113835698/5617db6d-f6e6-4782-947b-54a20e3626c7)
+
+2. NO DR case
+![NO DR Classification](https://github.com/Roodraps/Early-Blindness-Diabetic-Retinopathy-Detection/assets/113835698/5c7d2568-7e77-462d-b73d-c27b850fc84b)
+
+3. Sever DR case
+![Severe case classification](https://github.com/Roodraps/Early-Blindness-Diabetic-Retinopathy-Detection/assets/113835698/b3767926-68d6-48a7-8399-4ec735cb3626)
+
 
 
 # Model Performance
